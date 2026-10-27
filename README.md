@@ -1,3 +1,9 @@
+# Nama : Muchamad Rava Alvriansyah
+# Npm : 4525210040
+# Kelas : A
+
+
+
 # 🎓 Tutur – Dashboard Pembelajaran Bahasa Daerah
 
 Tutur adalah konsep desain antarmuka platform pembelajaran bahasa daerah yang dibuat untuk memberikan pengalaman belajar yang modern, nyaman, dan mudah digunakan.
